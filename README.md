@@ -2,6 +2,7 @@
 
 Finite element method used to calculate heat distribution.
 
+![rrir_project_eq.pdf](https://github.com/wkazmierczak/FEM_heat_distribution/files/14418869/rrir_project_eq.pdf)
 
 Result:
  
